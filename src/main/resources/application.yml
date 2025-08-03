@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://mongo-db.onrender.com:10000/mydb
+      uri: mongodb+srv://myuser:mypassword@cluster0.1vrf3km.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 server:
   port: 8080
