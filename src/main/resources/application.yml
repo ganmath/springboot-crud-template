@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/mydb
+      uri: mongodb://mongo-db.onrender.com:10000/mydb
 server:
   port: 8080
