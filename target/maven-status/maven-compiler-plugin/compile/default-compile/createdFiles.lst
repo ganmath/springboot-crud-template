@@ -1,8 +1,0 @@
-com\example\customer\CustomerIdSequence.class
-com\example\customer\Customer.class
-com\example\customer\SpringbootCrudTemplateApplication.class
-com\example\customer\CustomerIdSequenceService.class
-com\example\customer\CustomerController.class
-GlobalExceptionHandler.class
-MongoClientConnectionExample.class
-com\example\customer\CustomerRepository.class
