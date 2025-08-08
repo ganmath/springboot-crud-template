@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://myuser:mypassword@cluster0.1vrf3km.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://myuser:mypassword@cluster0.1vrf3km.mongodb.net/customer?retryWrites=true&w=majority&appName=Cluster0
 server:
   port: 8080
